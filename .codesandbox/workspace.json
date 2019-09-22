@@ -7,6 +7,14 @@
         },
         {
           "id": "codesandbox.browser"
+        },
+        {
+          "id": "codesandbox.browser",
+          "closeable": true,
+          "options": {
+            "port": 8080,
+            "url": "https://purzs-8080.sse.codesandbox.io"
+          }
         }
       ]
     },
